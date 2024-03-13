@@ -22,9 +22,7 @@ The ElGamal encryption system is based on the difficulty of finding discrete log
 
 To run the code, simply execute the Python script `elgamal.py`. It will generate a public and private key, encrypt a set of messages, and then decrypt them to recover the original messages.
 
-```bash
 python elgamal.py
-
 
 ## Output
 
