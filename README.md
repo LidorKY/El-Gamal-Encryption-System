@@ -24,3 +24,14 @@ To run the code, simply execute the Python script `elgamal.py`. It will generate
 
 ```bash
 python elgamal.py
+
+
+## Output
+
+The script prints the public and private keys, the original messages, the encrypted messages (ciphertexts), and the decrypted messages. For example outputs, refer to the `example1.txt`, `example2.txt`, and `example3.txt` files.
+
+## Note
+
+This is a simplified example, and actual cryptographic applications would use much larger numbers to ensure security. The security of the ElGamal encryption system relies on the discrete logarithm problem being difficult to solve.
+
+
